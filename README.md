@@ -1,6 +1,6 @@
 urban-octo-redesigned
 
-# Purpose
+## Purpose
 Urban-octo-redesigned is a refactoring project as part of BootCamp Week 1 Challenge.
 
 ## Installation
